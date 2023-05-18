@@ -1,0 +1,100 @@
+body {
+    margin: 40px auto;
+    font-family: Arial;
+    max-width: 640px;
+}
+
+.question {
+    margin-bottom: 60px;
+}
+
+hr {
+    margin: 40px;
+    border: none;
+    border-top: 1px solid #bbb;
+}
+
+/********************************
+ * QUESTION 5.
+ *******************************/
+.q6-wrapper {
+    background: #EFEFEF;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+}
+
+.q6-wrapper .q6-block {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: #333;
+}
+
+/* Add your code after this line */
+/********************************
+ * QUESTION 6.
+ *******************************/
+/* Add your code after this line */
+
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #4caf50;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+
+  header{
+    background-color: #F00;
+    color: #FFF;
+    text-align: center;
+  }
+
+  .file-name{
+    color: #00F;
+    font-weight: bold;
+  }
+
+  #my-name{
+    text-transform: uppercase;
+  }
